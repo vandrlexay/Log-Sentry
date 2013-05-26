@@ -1,4 +1,4 @@
 Log-Sentry
 ==========
 
-Perl client for sentry
+Perl client for sentry.
